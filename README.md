@@ -5,7 +5,7 @@ Short program I wrote for my Linear Algebra class to quickly analyze the frequen
 ---------------------------------------------------
 This short project introduced me to a few new concepts in programming:
 1. Using python dictionaries to easily analyze frequencies of different words in a text.
-2. Becoming more familiar with the CSV library in Pythoh and text parsing in general.
+2. Becoming more familiar with the CSV library in Python and text parsing in general.
 3. Becoming more familiar with command line arguments in python.
 
 Description:
